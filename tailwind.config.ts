@@ -138,7 +138,8 @@ export default {
 			},
 			fontFamily: {
 				sans: ['Inter', 'sans-serif'],
-				heading: ['SF Pro Display', 'Inter', 'sans-serif']
+				heading: ['Playfair Display', 'serif'],
+				body: ['Montserrat', 'sans-serif']
 			},
 			backgroundImage: {
 				'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
